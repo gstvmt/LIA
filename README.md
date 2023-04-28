@@ -1,1 +1,1 @@
-# Labpratorio de Inovacao e Automacao
+# Laboratorio de Inovacao e Automacao
